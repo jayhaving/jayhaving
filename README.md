@@ -9,7 +9,7 @@ I am a cybersecurity researcher at the Howard University Cyber Analytics Center,
 - **AI Security Governance:** Engineering secure RAG systems with input isolation and mitigating excessive agency in LLM pipelines.
 
 ## 🛠 Featured Engineering Projects
-- **[Autonomous Internship System](https://github.com/jayhaving/autonomous-internship-system):** A Python and SQLite-based ecosystem engineered to track networking outreach and track pipeline metrics.
+- **[Retrieval-Augmented Generation (RAG) LLM System](https://github.com/jayhaving/rag-llm-security-system):** A production-ready AI application leveraging LangChain and Pinecone to securely query proprietary documents with input sanitization and prompt injection guardrails.
 - **[Enterprise Zero-Trust Azure Architecture](https://github.com/jayhaving/azure-terraform-project):** A hub-and-spoke multi-tenant deployment automated via Terraform, featuring hardened network security groups and mandatory TLS 1.2 policies.
 - **[Serverless GenAI Malware Scanner](https://github.com/jayhaving/serverless-malware-scanner):** An Azure Function integrating the VirusTotal API with Blob Storage triggers for automated, event-driven file analysis.
 
